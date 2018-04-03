@@ -1,0 +1,9 @@
+C:\Users\smithj48\source\repos\Lab12\Lab12\bin\Lab12.dll.config
+C:\Users\smithj48\source\repos\Lab12\Lab12\bin\Lab12.dll
+C:\Users\smithj48\source\repos\Lab12\Lab12\bin\Lab12.pdb
+C:\Users\smithj48\source\repos\Lab12\Lab12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smithj48\source\repos\Lab12\Lab12\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smithj48\source\repos\Lab12\Lab12\obj\Debug\Lab12.csprojResolveAssemblyReference.cache
+C:\Users\smithj48\source\repos\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\smithj48\source\repos\Lab12\Lab12\obj\Debug\Lab12.dll
+C:\Users\smithj48\source\repos\Lab12\Lab12\obj\Debug\Lab12.pdb
